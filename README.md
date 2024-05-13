@@ -11,18 +11,17 @@ The development of PMMO is supported by KPMP: https://kpmp.org.
 ### Developers
 
 - University of Michigan: Yongqun He (Oliver), Yichao Chen, Ghida Arnous, Saketh Boddapati, Jie Zheng, Nikki Bonevich, Fadhl Alakwaa, Jennifer Schaub, Matthias Kretzler
+- Icahn School of Medicine at Mount Sinai: Jens Hansen, Ravi Iyengar
 - Duke: Laura Barisoni
 - John Hopkins: Avi Z Rosenberg
 - Jackson Laboratory: Peter Robinson
 - U at Buffalo: Alexander D. Diehl
-- University of Washington, Seattle: Jimmy P. Phuong, Jonathan Himmelfarb
-- Icahn School of Medicine at Mount Sinai: Jens Hansen, Ravi Iyengar,
 - U of Florida: William D. Duncan, Pinaki Sarder
 - Indiana University, Bloomington: Bruce W. Herr II, Katy Borner
 - U of South Carolina, Columbia, SC: Chen Liang
 - Brigham and Women’s Hospital, Boston, Massachusetts: M. Todd Valerius
 - Washington University: Sanjay Jain
-
+- University of Washington, Seattle: Jimmy P. Phuong, Jonathan Himmelfarb
 
 ### Reference
 
