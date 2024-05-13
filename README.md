@@ -3,7 +3,7 @@ PMMO: Precision Medicine Metadata Ontology
 
 PMMO is a community-based precision medicine metadata ontology.
 
-PMMO is being developed based on OPMI. Generally speaking, PMMO can be considered as a subset of OPMI but it includes more metadata-related features.
+PMMO is being developed based on the Ontology of Precision Medicine and Investigation ([OPMI](https://github.com/OPMI/opmi)). Generally speaking, PMMO can be considered as a subset of OPMI but it includes more metadata-related features.
 
 The development of PMMO is supported by KPMP: https://kpmp.org. 
 
